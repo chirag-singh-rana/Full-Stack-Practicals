@@ -1,0 +1,149 @@
+.A {
+    border: 3px solid black;
+    background-color: aqua;
+    text-align: center;
+    padding: 5px 0px;
+    font-size: 20px;
+}
+
+.B {
+    border: 3px solid black;
+    /* text-align: center; */
+    padding: 400px 100px;
+    background-color: burlywood;
+    font-size: 20px;
+    background-image: url("background_FullStack.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+}
+
+.X {
+    text-align: center;
+    
+}
+
+.D {
+    border: 3px solid black;
+    /* text-align: center; */
+    float: left;
+    padding: 0px 10px;
+    padding-bottom: 300px;
+    margin-right: 50%;
+    overflow: none;
+    background-color: rgb(119, 107, 107);
+    font-size: large;
+}
+
+.E {
+    text-align: center;
+    border: 3px solid black;
+    float: right;
+    overflow: auto;
+    padding: 7.5% 20.5%;
+    margin-left: 5px;
+    /* margin-top: -200px; */
+    /* margin-left: 5px; */
+    /* padding: 1.8% 21.5%; */
+    /* background-color: rgb(170, 99, 40); */
+}
+
+.F {
+    text-align: center;
+    border: 3px solid black;
+    float: right;
+    padding: 5.8% 20.5%;
+    margin-left: 5px;
+    margin-top: -770px;
+    overflow: auto;
+    background-color: rgb(170, 99, 40);
+
+}
+
+.G {
+    border: 3px solid black;
+    padding: 20px 10%;
+    display: block;
+
+}
+
+.R {
+    border: 3px solid black;
+    display: inline-block;
+    padding: 75px 75px;
+    border-radius: 50%;
+    text-align: center;
+    margin-left: 150px;
+    background-color: rgb(251, 255, 13);
+
+}
+
+.S {
+    display: inline-block;
+}
+
+.Y {
+    margin-top: 250px;
+    text-align: center;
+}
+
+
+
+.footer {
+    padding: 5px 0px;
+    text-align: center;
+    border: 3px solid black;
+    background-color: rgb(223, 128, 223);
+}
+
+.nav {
+    background-color: rgb(161, 158, 158);
+    border-radius: 5px;
+    margin-top: 22px;
+
+}
+
+li {
+    display: inline-block;
+    overflow: hidden;
+    margin-top: 5px;
+    margin-left: 40px;
+    text-decoration-style: none;
+    padding: 2px 80px;
+    font-size: x-large;
+    color: rgb(68, 67, 67);
+}
+
+img {
+    width: 90%;
+    padding: 5px 15px;
+    border-radius: 5px;
+}
+
+.box {
+    display: block;
+    float: left;
+    background-color: rgb(180, 178, 178);
+    border: 3px solid black;
+    border-radius: 15px;
+    width: 20%;
+    margin-left: 20px;
+    margin-top: 50px;
+    text-align: center;
+}
+
+.IM {
+    width: 100%;
+    background-color: red;
+    border-radius: 5px;
+    color: white;
+    padding: 5px 105px;
+    text-decoration: none;
+    /* margin: 10px 20px; */
+
+}
+
+.IM:hover {
+    background-color: blue;
+}
